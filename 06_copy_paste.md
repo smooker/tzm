@@ -1,6 +1,6 @@
-[← Previous](04_sinyakyt.md) | [→ Next](06_28mi.md)
+[← Previous](05_opravil.md) | [→ Next](07_28mi.md)
 
-## Глава 5. Copy-Paste
+## Глава 6. Copy-Paste
 
 Прокурор Балтаджиева — Петър така и не разбра дали е истинското й име или просто звучеше така — квалифицира случая като „бързо производство".
 
@@ -44,4 +44,4 @@ Copy-paste. Прокурорката беше копирала от *друго 
 
 ---
 
-[← Previous](04_sinyakyt.md) | [→ Next](06_28mi.md)
+[← Previous](05_opravil.md) | [→ Next](07_28mi.md)

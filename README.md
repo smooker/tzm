@@ -25,6 +25,7 @@
 | 2 | Графикът | [02_grafikyt.md](02_grafikyt.md) |
 | 3 | Приятелката | [03_priyatelkata.md](03_priyatelkata.md) |
 | 4 | Синякът | [04_sinyakyt.md](04_sinyakyt.md) |
-| 5 | Copy-Paste | [05_copy_paste.md](05_copy_paste.md) |
-| 6 | Двайсет и осми | [06_28mi.md](06_28mi.md) |
-| 7 | Котелът | [07_kotelyt.md](07_kotelyt.md) |
+| 5 | „Оправил" | [05_opravil.md](05_opravil.md) |
+| 6 | Copy-Paste | [06_copy_paste.md](06_copy_paste.md) |
+| 7 | Двайсет и осми | [07_28mi.md](07_28mi.md) |
+| 8 | Котелът | [08_kotelyt.md](08_kotelyt.md) |

@@ -1,4 +1,4 @@
-[← Previous](06_28mi.md)
+[← Previous](07_28mi.md)
 
 # Глава 7. Котелът
 
@@ -154,4 +154,4 @@
 
 ---
 
-[← Previous](06_28mi.md)
+[← Previous](07_28mi.md)
